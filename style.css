@@ -1,0 +1,70 @@
+/*header content*/
+
+h1 {
+  font-family: 'Droid Sans', sans-serif, "Arial";
+  font-size: 48px;
+  text-align: center;
+}
+
+
+/*main content*/
+
+h2 {
+  font-family: 'Droid Sans', sans-serif, "Arial";
+  font-size: 32px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Droid Sans', sans-serif, "Arial";
+  font-size: 28px;
+  text-align: center;
+}
+
+h6 {
+  font-family: 'Droid Sans', sans-serif, "Arial";
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 1px;
+  line-height: 28px;
+  margin: 50px 150px;
+}
+
+ul {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 125px;
+}
+
+/*image content*/
+
+.wrapper {
+  width: 600px;
+  margin: auto;
+  padding: 10px;
+}
+
+/*footer content*/
+
+#footer_text {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/*pseudo selectors*/
+
+a:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  color: #3C5DFF;
+}
